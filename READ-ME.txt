@@ -1,0 +1,1 @@
+This folder contains the csv files for the quality parameters as well as speed parameters calculated for different FAs, GAs, B articles, and C articles. The underlying articles can be downloaded from Wikipedia. Kindly refer the article Knowledgeroids vs. Knowledgetrition: Does Pace matter in Wikipedia? for more details.
